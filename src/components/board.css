@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+
+body {
+    background: #98ded9;
+}
+
+.Board {
+    padding-top: 10px;
+}
+
+.btn {
+    border: 1px solid darkgreen;
+    border-radius: 3px;
+    background: lightgreen;
+    margin: 5px;
+    padding: 5px;
+    color: darkgreen;
+}
+.notify-winner {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    color: darkgreen;
+}
+.list {
+    list-style: none;
+}
